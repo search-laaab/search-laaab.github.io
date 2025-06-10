@@ -90,6 +90,13 @@ blockquote p:last-child {
  * Layout styles
  */
 
+.container {
+  display: flex;
+  align-items: flex-start;
+}
+.image {
+  margin-right: 15px;
+}
 
 /* Full size background image */
 html, #container, .inner { background-color:transparent;}
