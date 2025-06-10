@@ -90,24 +90,6 @@ blockquote p:last-child {
  * Layout styles
  */
 
-/* Full size background image */
-html, #container, .inner { background-color:transparent;}
-html {
-  background:url(background.jpg) center center no-repeat fixed;
-  background-size:cover;
-}
-body {
-  max-width:800px;
-  margin:25px auto;
-}
-header, #content, footer { 
-  background: rgba(0,0,0,.8); 
-  padding:25px;
-  color:#FFFFFF; 
-}
-iframe {
-  max-width:100%;
-}
 
 /* Menu Links */
 ul.main-menu {
