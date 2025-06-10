@@ -90,6 +90,20 @@ blockquote p:last-child {
  * Layout styles
  */
 
+body {
+  max-width:800px;
+  margin:25px auto;
+}
+header, #content, footer { 
+  background: rgba(0,0,0,.8); 
+  padding:25px;
+  color:#FFFFFF; 
+}
+iframe {
+  max-width:100%;
+}
+
+
 
 /* Menu Links */
 ul.main-menu {
