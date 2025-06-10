@@ -95,7 +95,7 @@ blockquote p:last-child {
 }
 .left {
     float: left;
-    margin-right: 1.5em;
+    margin-right: 1em;
 }
 .right {
     float: right;
